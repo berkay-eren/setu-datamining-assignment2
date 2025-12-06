@@ -1,0 +1,194 @@
+﻿Country,HDI score,HDI Class
+Iceland,0.972,Very High HDI
+Norway,0.970,Very High HDI
+Switzerland,0.970,Very High HDI
+Denmark,0.962,Very High HDI
+Germany,0.959,Very High HDI
+Sweden,0.959,Very High HDI
+Australia,0.958,Very High HDI
+"Hong Kong, China (SAR)",0.955,Very High HDI
+Netherlands,0.955,Very High HDI
+Belgium,0.951,Very High HDI
+Ireland,0.949,Very High HDI
+Finland,0.948,Very High HDI
+Singapore,0.946,Very High HDI
+United Kingdom,0.946,Very High HDI
+United Arab Emirates,0.940,Very High HDI
+Canada,0.939,Very High HDI
+Liechtenstein,0.938,Very High HDI
+New Zealand,0.938,Very High HDI
+United States,0.938,Very High HDI
+Korea (Republic of),0.937,Very High HDI
+Slovenia,0.931,Very High HDI
+Austria,0.930,Very High HDI
+Japan,0.925,Very High HDI
+Malta,0.924,Very High HDI
+Luxembourg,0.922,Very High HDI
+France,0.920,Very High HDI
+Israel,0.919,Very High HDI
+Spain,0.918,Very High HDI
+Czechia,0.915,Very High HDI
+Italy,0.915,Very High HDI
+San Marino,0.915,Very High HDI
+Andorra,0.913,Very High HDI
+Cyprus,0.913,Very High HDI
+Greece,0.908,Very High HDI
+Poland,0.906,Very High HDI
+Estonia,0.905,Very High HDI
+Saudi Arabia,0.900,Very High HDI
+Bahrain,0.899,Very High HDI
+Lithuania,0.895,Very High HDI
+Portugal,0.890,Very High HDI
+Croatia,0.889,Very High HDI
+Latvia,0.889,Very High HDI
+Qatar,0.886,Very High HDI
+Slovakia,0.880,Very High HDI
+Chile,0.878,Very High HDI
+Hungary,0.870,Very High HDI
+Argentina,0.865,Very High HDI
+Montenegro,0.862,Very High HDI
+Uruguay,0.862,Very High HDI
+Oman,0.858,Very High HDI
+Türkiye,0.853,Very High HDI
+Kuwait,0.852,Very High HDI
+Antigua and Barbuda,0.851,Very High HDI
+Seychelles,0.848,Very High HDI
+Bulgaria,0.845,Very High HDI
+Romania,0.845,Very High HDI
+Georgia,0.844,Very High HDI
+Saint Kitts and Nevis,0.840,Very High HDI
+Panama,0.839,Very High HDI
+Brunei Darussalam,0.837,Very High HDI
+Kazakhstan,0.837,Very High HDI
+Costa Rica,0.833,Very High HDI
+Serbia,0.833,Very High HDI
+Russian Federation,0.832,Very High HDI
+Belarus,0.824,Very High HDI
+Bahamas,0.820,Very High HDI
+Malaysia,0.819,Very High HDI
+North Macedonia,0.815,Very High HDI
+Armenia,0.811,Very High HDI
+Barbados,0.811,Very High HDI
+Albania,0.810,Very High HDI
+Trinidad and Tobago,0.807,Very High HDI
+Mauritius,0.806,Very High HDI
+Bosnia and Herzegovina,0.804,Very High HDI
+Iran (Islamic Republic of),0.799,High HDI
+Saint Vincent and the Grenadines,0.798,High HDI
+Thailand,0.798,High HDI
+China,0.797,High HDI
+Peru,0.794,High HDI
+Grenada,0.791,High HDI
+Azerbaijan,0.789,High HDI
+Mexico,0.789,High HDI
+Colombia,0.788,High HDI
+Brazil,0.786,High HDI
+Palau,0.786,High HDI
+Moldova (Republic of),0.785,High HDI
+Ukraine,0.779,High HDI
+Ecuador,0.777,High HDI
+Dominican Republic,0.776,High HDI
+Guyana,0.776,High HDI
+Sri Lanka,0.776,High HDI
+Tonga,0.769,High HDI
+Maldives,0.766,High HDI
+Viet Nam,0.766,High HDI
+Turkmenistan,0.764,High HDI
+Algeria,0.763,High HDI
+Cuba,0.762,High HDI
+Dominica,0.761,High HDI
+Paraguay,0.756,High HDI
+Egypt,0.754,High HDI
+Jordan,0.754,High HDI
+Lebanon,0.752,High HDI
+Saint Lucia,0.748,High HDI
+Mongolia,0.747,High HDI
+Tunisia,0.746,High HDI
+South Africa,0.741,High HDI
+Uzbekistan,0.740,High HDI
+Bolivia (Plurinational State of),0.733,High HDI
+Gabon,0.733,High HDI
+Marshall Islands,0.733,High HDI
+Botswana,0.731,High HDI
+Fiji,0.731,High HDI
+Indonesia,0.728,High HDI
+Suriname,0.722,High HDI
+Belize,0.721,High HDI
+Libya,0.721,High HDI
+Jamaica,0.720,High HDI
+Kyrgyzstan,0.720,High HDI
+Philippines,0.720,High HDI
+Morocco,0.710,High HDI
+Venezuela (Bolivarian Republic of),0.709,High HDI
+Samoa,0.708,High HDI
+Nicaragua,0.706,High HDI
+Nauru,0.703,High HDI
+Bhutan,0.698,Medium HDI
+Eswatini (Kingdom of),0.695,Medium HDI
+Iraq,0.695,Medium HDI
+Tajikistan,0.691,Medium HDI
+Tuvalu,0.689,Medium HDI
+Bangladesh,0.685,Medium HDI
+India,0.685,Medium HDI
+El Salvador,0.678,Medium HDI
+Equatorial Guinea,0.674,Medium HDI
+"Palestine, State of",0.674,Medium HDI
+Cabo Verde,0.668,Medium HDI
+Namibia,0.665,Medium HDI
+Guatemala,0.662,Medium HDI
+Congo,0.649,Medium HDI
+Honduras,0.645,Medium HDI
+Kiribati,0.644,Medium HDI
+Sao Tome and Principe,0.637,Medium HDI
+Timor-Leste,0.634,Medium HDI
+Ghana,0.628,Medium HDI
+Kenya,0.628,Medium HDI
+Nepal,0.622,Medium HDI
+Vanuatu,0.621,Medium HDI
+Lao People's Democratic Republic,0.617,Medium HDI
+Angola,0.616,Medium HDI
+Micronesia (Federated States of),0.615,Medium HDI
+Myanmar,0.609,Medium HDI
+Cambodia,0.606,Medium HDI
+Comoros,0.603,Medium HDI
+Zimbabwe,0.598,Medium HDI
+Zambia,0.595,Medium HDI
+Cameroon,0.588,Medium HDI
+Solomon Islands,0.584,Medium HDI
+Côte d'Ivoire,0.582,Medium HDI
+Uganda,0.582,Medium HDI
+Rwanda,0.578,Medium HDI
+Papua New Guinea,0.576,Medium HDI
+Togo,0.571,Medium HDI
+Syrian Arab Republic,0.564,Medium HDI
+Mauritania,0.563,Medium HDI
+Nigeria,0.560,Medium HDI
+Tanzania (United Republic of),0.555,Medium HDI
+Haiti,0.554,Medium HDI
+Lesotho,0.550,Medium HDI
+Pakistan,0.544,Low HDI
+Senegal,0.530,Low HDI
+Gambia,0.524,Low HDI
+Congo (Democratic Republic of the),0.522,Low HDI
+Malawi,0.517,Low HDI
+Benin,0.515,Low HDI
+Guinea-Bissau,0.514,Low HDI
+Djibouti,0.513,Low HDI
+Sudan,0.511,Low HDI
+Liberia,0.510,Low HDI
+Eritrea,0.503,Low HDI
+Guinea,0.500,Low HDI
+Ethiopia,0.497,Low HDI
+Afghanistan,0.496,Low HDI
+Mozambique,0.493,Low HDI
+Madagascar,0.487,Low HDI
+Yemen,0.470,Low HDI
+Sierra Leone,0.467,Low HDI
+Burkina Faso,0.459,Low HDI
+Burundi,0.439,Low HDI
+Mali,0.419,Low HDI
+Niger,0.419,Low HDI
+Chad,0.416,Low HDI
+Central African Republic,0.414,Low HDI
+Somalia,0.404,Low HDI
+South Sudan,0.388,Low HDI
